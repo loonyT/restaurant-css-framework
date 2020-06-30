@@ -13,7 +13,7 @@ Realise a window web page for a restaurant. The franchise is fictive, but the ty
 This person has taken time to draw figures so that i can understand the "logic" of Bootstrap, this realy helped me so i thought i shoud mention it. 
 
 
-#### The project is actualy in its building phase. Any help would be apreciated
+#### The project is done but if you have remarks, suggestions, ideas to improve it, ill take them. 
 
 #### This website will be done by using HTML, CSS and the Bootstrap technology. IDE used : mainly bracketts but also VSC in an Ubuntu environement 
 
