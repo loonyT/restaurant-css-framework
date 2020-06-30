@@ -8,7 +8,13 @@ Realise a window web page for a restaurant. The franchise is fictive, but the ty
 
 ### Link towards the site i used for the images free of rights : [ Pixabay     ] (  https://pixabay.com/fr/     )
 
+### Link towards the github of a fellow student, [Asheleigh] ( https://github.com/AshleighTempleton?tab=repositories ) 
+
+This person has taken time to draw figures so that i can understand the "logic" of Bootstrap, this realy helped me so i thought i shoud mention it. 
+
+
 #### The project is actualy in its building phase. Any help would be apreciated
 
 #### This website will be done by using HTML, CSS and the Bootstrap technology. IDE used : mainly bracketts but also VSC in an Ubuntu environement 
+
 
