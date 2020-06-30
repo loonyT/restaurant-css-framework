@@ -4,7 +4,9 @@ Realise a window web page for a restaurant. The franchise is fictive, but the ty
 
 ## Solo project done as a summary exercise at the begining of the  BeCode training program. 
 
-### Links towards the project : 
+### Links towards the project :  [ Helthytiser  ] (  https://loonyt.github.io/restaurant-css-framework/   )
+
+### Link towards the site i used for the images free of rights : [ Pixabay     ] (  https://pixabay.com/fr/     )
 
 #### The project is actualy in its building phase. Any help would be apreciated
 
